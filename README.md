@@ -1,0 +1,2 @@
+# Human-behavior-recognition-based-on-multi-scale-convolutional-neural-network
+Designed a deep learning model to identify and classify human actions from video data using Convolutional Neural Networks (CNNs). Applied multiscale and space-time feature extraction techniques to capture both motion and appearance effectively. Improved model efficiency and accuracy by using optimized convolution methods.
